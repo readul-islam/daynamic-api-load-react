@@ -27,7 +27,7 @@ function Apiload() {
   }, []);
 
   return (
-    <div>
+    <div className="main">
       <h1>{api.length}</h1>
      <div className="display">
      {api.map((info) => (

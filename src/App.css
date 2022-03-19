@@ -46,4 +46,7 @@ font-family: 'Poppins', sans-serif;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
 }
+.main{
+  margin-left: 150px;
+}
 
